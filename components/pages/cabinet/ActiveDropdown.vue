@@ -4,7 +4,7 @@
       <a-menu>
         <a-menu-item>
           <img
-            src="/cabinet-icons/trash.svg"
+            src="#"
             alt="pencil"
           ><span>{{ ts('delete') }}</span>
         </a-menu-item>
