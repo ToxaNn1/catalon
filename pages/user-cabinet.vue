@@ -28,7 +28,7 @@
               >
                 <p class="ant-upload-drag-icon flex justify-center items-center">
                   <img
-                    src="/cabinet-icons/iconupload.svg"
+                    src=""
                     alt="upload"
                   >
                 </p>
