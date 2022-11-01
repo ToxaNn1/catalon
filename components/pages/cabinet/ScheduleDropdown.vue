@@ -10,19 +10,19 @@
         </a-menu-item>
         <a-menu-item>
           <img
-            src="/cabinet-icons/paperPlane.svg"
+            src="#"
             alt="paperPlane"
           ><span>{{ ts('publish') }}</span>
         </a-menu-item>
         <a-menu-item>
           <img
-            src="/cabinet-icons/checkbox.svg"
+            src="#"
             alt="checked"
           ><span>{{ ts('published') }}</span>
         </a-menu-item>
         <a-menu-item>
           <img
-            src="/cabinet-icons/broom.svg"
+            src="#"
             alt="broom"
           ><span>{{ ts('unPublished') }}</span>
         </a-menu-item>
