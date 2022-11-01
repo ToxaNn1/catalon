@@ -4,7 +4,7 @@
       <a-menu>
         <a-menu-item>
           <img
-            src="/cabinet-icons/pencil.svg"
+            src="#"
             alt="pencil"
           ><span>{{ ts('edit') }}</span>
         </a-menu-item>
