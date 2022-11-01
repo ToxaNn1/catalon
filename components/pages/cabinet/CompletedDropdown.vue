@@ -4,7 +4,7 @@
       <a-menu>
         <a-menu-item>
           <img
-            src="/cabinet-icons/eye.svg"
+            src="#"
             alt="pencil"
           ><span>{{ ts('viewDetails') }}</span>
         </a-menu-item>
